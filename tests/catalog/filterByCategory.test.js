@@ -1,3 +1,4 @@
+// Work in progress: replace the Jest TODO cases with actual assertions.
 const products = require('../../src/data/products');
 const { filterByCategory } = require('../../src/catalog');
 
